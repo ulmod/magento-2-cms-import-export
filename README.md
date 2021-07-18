@@ -21,7 +21,7 @@ With Magento 2 CMS Pages Import Export, youcan  easily transfer CMS pages betwee
 
 <img src="https://www.ulmod.com/media/ulmod/product_content/cms-export-feature.png">
 <img src="https://www.ulmod.com/media/ulmod/product_content/cms-import-feature.png">
-<img src="https://www.ulmod.com/media/ulmod/product_content/cms-import-feature.png">
+<img src="https://www.ulmod.com/media/ulmod/product_content/cms-export-log-feature.png">
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
 ### Magento 2 FREE Extensions
