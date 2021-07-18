@@ -1,8 +1,8 @@
 # Magento 2 CMS Pages Import Export Extension
 
-[Magento 2 CMS Pages Import Export](https://www.ulmod.com/cms-export-and-import-for-magento-2.html)  is a Magento 2 extension that allows you to easily export and import CMS pages including all data (eg. title, identifier, metadata, content, page layout, and so on.). 
+[Magento 2 CMS Pages Import Export](https://www.ulmod.com/cms-export-and-import-for-magento-2.html)  is a Magento 2 extension that allows you to easily export and import CMS pages including all related data (eg. title, identifier, metadata, content, page layout, and so on.). 
 
-With Magento 2 CMS Pages Import and Export, you easily transfer CMS pages between Magento 2 sites or installations. 
+With Magento 2 CMS Pages Import Export, youcan  easily transfer CMS pages between Magento 2 sites or installations. 
 
 <a href="https://www.ulmod.com/cms-export-and-import-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
